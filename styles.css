@@ -2,6 +2,7 @@ body {
     background: linear-gradient(#505093, #505070), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
     background-attachment: fixed;
     background-size: cover;
+    background-blend-mode: color;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #fff;
